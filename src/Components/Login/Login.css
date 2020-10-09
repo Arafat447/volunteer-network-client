@@ -1,0 +1,16 @@
+.signIn-body img {
+    width: 50px;
+}
+.signIn-body {
+    background-color : #dddd;
+    width: 75%;
+    margin:0 auto;
+    padding:30px 0px;
+}
+
+.signIn-header img {
+    text-align: center;
+    margin: 0 auto;
+    width: 280px;
+    margin-bottom: 50px;
+}

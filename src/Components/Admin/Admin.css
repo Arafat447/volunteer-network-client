@@ -1,0 +1,41 @@
+.admin{
+    height: 100vh;
+    background-color: #ffff;
+    
+}
+.admin-header img{
+    height: 80px;
+}
+th{
+    width: 250px;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+.all-data{
+    background-color:rgba(245,246,250,1);
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.admin-img img{
+    height:25px;
+    margin:10px;
+}
+.admin-data-wrapper{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color:white;
+}
+.delete-button button{
+  width:40px;  
+  padding:5px;
+  border-radius:5px;
+  border:1px solid red;
+}
+.delete-button img{
+        height:30px;
+}

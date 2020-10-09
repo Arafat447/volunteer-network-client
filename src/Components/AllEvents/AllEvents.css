@@ -1,0 +1,18 @@
+.events-container{
+    height:100vh;
+    background-color:#F8FAFC;
+    text-transform: capitalize;
+}
+
+.events-wrapper img{
+    width:180px;
+    height:180px;
+    border-radius:20px;
+}
+
+.events-wrapper{
+    /* width: 450px;
+    height: 180px ; */
+    border-radius: 16px;
+    background-color: white;
+}

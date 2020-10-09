@@ -1,0 +1,13 @@
+.register-container {
+    text-transform: capitalize;
+}
+.register-container img {
+    width: 250px;
+    height: 80px;
+    margin:0 auto;
+}
+
+.register-container form {  
+    padding: 50px;
+    border:2px solid #dddddd ;
+}
